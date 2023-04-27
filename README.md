@@ -4,7 +4,7 @@
 ### Project Overview:
 This repository contains Project 2 for the course EE P 596: Advanced Introduction to Machine Learning. The project, instructed by Prof. Karthik Mohan, was completed by students Naif A Ganadily and Sarah Selim, with assistance from TA Ayush Singh and Grader Fatwir SM.
 
-This project employs deep learning techniques to accurately classify distinct heartbeat types from electrocardiogram (ECG) data, with the primary aim of assisting in arrhythmia diagnosis. The models built in this project were tested and ranked 5th in the Kaggle competition "Arrhythmia heartbeat classification Win23."
+This project employs deep learning techniques to accurately classify distinct heartbeat types from electrocardiogram (ECG) data, with the primary aim of assisting in arrhythmia diagnosis. The models built in this project were tested and ranked high in the Kaggle competition "Arrhythmia heartbeat classification Win23."
 
 ### Data Source and Preprocessing:
 The ECG data is derived from the MIT-BIH database and preprocessed using a tailored "preprocessor" function that isolates specific heartbeat types and consolidates the data into a single dataframe.
