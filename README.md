@@ -25,7 +25,7 @@ A CNN model is built with multiple convolutional and dense layers, using the Ker
 The project encompasses functions for computing and visualizing confusion matrices, ROC curves, and false positive and false negative results for Class R. These visualizations provide valuable insights into the model's performance and help identify areas for improvement.
 
 ### Kaggle Competition Participation:
-This project participated in the Kaggle competition "Arrhythmia heartbeat classification Win23," and the team, Rhythm Detectives, achieved a rank of 5th with a score of 0.61917. Link: https://www.kaggle.com/competitions/arrhythmia-heartbeat-classification-win23/leaderboard
+This project participated in the Kaggle competition "Arrhythmia heartbeat classification Win23," and the team, Rhythm Detectives, achieved a score of 0.61917. Link: https://www.kaggle.com/competitions/arrhythmia-heartbeat-classification-win23/leaderboard
 
 ### Conclusion:
 In summary, this project showcases the promising potential of deep learning in the precise classification of heartbeats and arrhythmia diagnosis, and serves as a valuable learning resource for future research in the field of ECG-based arrhythmia detection.
