@@ -2,7 +2,7 @@
 ## Deep Learning-Based ECG Arrythmia Heartbeat Classification
 
 ### Project Overview:
-This repository contains Project 2 for the course EE P 596: Advanced Introduction to Machine Learning. The project, instructed by Prof. Karthik Mohan, was completed by students Naif A Ganadily and Sarah Selim, with assistance from TA Ayush Singh and Grader Fatwir SM.
+This repository contains Project 2 for the course EE P 596: Advanced Introduction to Machine Learning. The project, instructed by Prof. Karthik Mohan, was completed by students Naif A Ganadily and Sarah Selim.
 
 This project employs deep learning techniques to accurately classify distinct heartbeat types from electrocardiogram (ECG) data, with the primary aim of assisting in arrhythmia diagnosis. The models built in this project were tested and ranked high in the Kaggle competition "Arrhythmia heartbeat classification Win23."
 
