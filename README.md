@@ -1,5 +1,5 @@
 # EEP_596_Project2
-## Deep Learning-Based ECG Heartbeat Classification for Arrhythmia Detection
+## Deep Learning-Based ECG Arrythmia Heartbeat Classification
 
 ### Project Overview:
 This repository contains Project 2 for the course EE P 596: Advanced Introduction to Machine Learning. The project, instructed by Prof. Karthik Mohan, was completed by students Naif A Ganadily and Sarah Selim, with assistance from TA Ayush Singh and Grader Fatwir SM.
